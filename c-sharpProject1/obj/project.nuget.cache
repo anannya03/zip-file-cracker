@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+vMqeln8WU2+xhjRoxRZ01Gd8FmLqE+cexf4ean63wowhZem0OplucWWn2kasqCPZhXCV71eD6Y1hmU/GTIwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anannya\\source\\repos\\zipFileCracker\\c-sharpProject1\\c-sharpProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anannya\\.nuget\\packages\\dynamiclanguageruntime\\1.2.2\\dynamiclanguageruntime.1.2.2.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\ironpython\\2.7.9\\ironpython.2.7.9.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\ironpython.stdlib\\2.7.9\\ironpython.stdlib.2.7.9.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\python\\3.8.2\\python.3.8.2.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\python2\\2.7.17\\python2.2.7.17.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\system.codedom\\4.5.0\\system.codedom.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\Anannya\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
